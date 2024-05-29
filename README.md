@@ -1,2 +1,4 @@
-# PALM
-Investigate Learning Approaches for Pairwise Protein Sequence Alignment
+# PALM: Probabilistic Area Loss Minimization for Protein Sequence Alignment.
+
+UAI 2021.
+
